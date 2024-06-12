@@ -88,6 +88,7 @@ Taichi Math Playground
 - [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 - [tinn](https://github.com/identxxy/tinn) - A Taichi implementation of the tiny-cuda-nn.
 - [PAC-NeRF](https://github.com/xuan-li/PAC-NeRF) - Physics Augmented Continuum Neural Radiance Fields for Geometry-Agnostic System Identification.
+- [TinyDiffRast](https://jjbannister.github.io/tinydiffrast/) - State-of-the-art approaches to differentiable triangle rasterization implemented in Taichi.
 
 
 ### **Optics**
