@@ -157,6 +157,7 @@ Chinoxel
 - [Facet](https://github.com/peng-bo/facet) - A Fast diamond Cut Estimator powered by Taichi.
 - [whycode](https://github.com/ElonKou/whycode) - A Taichi hackathon repo, use Taichi to achieve some visual effects.
 - [RayTracingPBR](https://github.com/HK-SHAO/RayTracingPBR) - Ray Tracing PBR for Taichi Hackathon 2022.
+- [Ray-Traced Black Hole Rendering](https://github.com/JaeHyunLee94/BlackHoleRendering) - Ray-traced rendering of a Schwarzschild black hole implemented in Taichi.
 
 
 ### **Robotics**
